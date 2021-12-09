@@ -13,5 +13,5 @@ Before the mentor session, we wanted to develop the whole website on Desktop, bu
 
 <h2>quickpark-django</h2>
 
-It is empty for now, but if we were to further develop our application, **(like in round 3)**, we will generate our backend services using django. Our MVP will not be featuring any backend implementation. 
+It is empty for now, but if we were to further develop our application, **(like in round 3)**, we will generate our backend services using django. Our MVP will not be featuring any concrete backend implementation, but will be throughly explained in the presentation. 
 
